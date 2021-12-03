@@ -501,9 +501,9 @@ RectTransform:
   m_Father: {fileID: 1165401113}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -470, y: 245}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 90, y: -20}
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &675604846
@@ -674,7 +674,7 @@ MonoBehaviour:
       velocity","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"ShotJumpVelocity","value":{"$content":4.25,"$type":"System.Single"},"$version":"A"},{"name":"ShootJumpDelay","value":{"$content":0.6,"$type":"System.Single"},"$version":"A"},{"name":"CanJump","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"CanShootJump","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"Bullet","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"Healthbar","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 7295923513198136729, guid: 454ea5f09ac8607478d5f82804a7046c, type: 3}
-    - {fileID: 0}
+    - {fileID: 675604844}
 --- !u!61 &1081058765
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2057,7 +2057,7 @@ PrefabInstance:
     - target: {fileID: 9189872968896818639, guid: 3bf52b7b7e7e065439e70c4287ad2f82, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1081058761}
     - target: {fileID: 9189872968896818675, guid: 3bf52b7b7e7e065439e70c4287ad2f82, type: 3}
       propertyPath: m_RootOrder
       value: 5
