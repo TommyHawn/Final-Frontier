@@ -616,7 +616,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
       propertyPath: m_Text
-      value: Press [Right Click} to shoot downwards and launch in to the air
+      value: Press [Right Click] to use your jetpack
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 28
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 14780306003e30747be46b3c427c3e19, type: 3}
@@ -882,7 +890,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
       propertyPath: m_Text
-      value: Press [Space} to jump
+      value: Press [Space] to jump
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 28
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 14780306003e30747be46b3c427c3e19, type: 3}
@@ -1317,7 +1333,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
       propertyPath: m_Text
-      value: Collect the Artifact!
+      value: Collect the the piece of the Artifact!
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 28
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 14780306003e30747be46b3c427c3e19, type: 3}
@@ -1484,7 +1508,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1148775282}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.27, y: -3.48, z: 0}
+  m_LocalPosition: {x: -8.16, y: -3.44, z: 0}
   m_LocalScale: {x: 0.5583, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1878,6 +1902,14 @@ PrefabInstance:
     - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
       propertyPath: m_Text
       value: Press [Left Click] to fire a bullet at the enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 28
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 14780306003e30747be46b3c427c3e19, type: 3}
@@ -4923,7 +4955,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
       propertyPath: m_Text
-      value: Be Careful!
+      value: You'll have to use your jetpack to cross!
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7062665605549183053, guid: 14780306003e30747be46b3c427c3e19, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 28
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 14780306003e30747be46b3c427c3e19, type: 3}
