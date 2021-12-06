@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2030527614204199304}
   m_Layer: 0
   m_Name: TextBoxTrigger
-  m_TagString: Untagged
+  m_TagString: nonreactive
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
