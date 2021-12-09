@@ -463,6 +463,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4043419326052101056, guid: 0cd2014a4ea245c428422a838072eefa, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"NextScene","value":{"$content":"Level3","$type":"System.String"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 7078890046112300959, guid: 0cd2014a4ea245c428422a838072eefa, type: 3}
       propertyPath: m_Name
       value: ArtifactTrigger
